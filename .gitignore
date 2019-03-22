@@ -1,0 +1,7 @@
+# Folders
+_book
+node_modules
+
+# Architecture specific extensions/prefixes
+*.html
+*.htm
